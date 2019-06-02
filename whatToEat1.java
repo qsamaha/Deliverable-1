@@ -16,11 +16,11 @@ public class whatToEat1 {
 		partySize = sc.nextInt();
 		
 		
-		    result = "Since youre hosting a " + eventType + " event for " + partySize;
+	    result = "Since youre hosting a " + eventType + " event for " + partySize;
 			
-		if (eventType.equals("casual") && partySize == 1) {
+	if (eventType.equals("casual") && partySize == 1) {
 			
-		    result +=(" person, you should serve sandwiches prepared in the mircowave. ");
+	    result +=(" person, you should serve sandwiches prepared in the mircowave. ");
 
 
         }
