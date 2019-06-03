@@ -66,11 +66,7 @@ public class whatToEat1 {
            
         	result += (" people, you should serve chicken parmesan by a caterer. ");
         }
-        else {
-        	
-        	System.out.println("Please enter \"casual\", \"semi-formal\", or \"formal\" in the console");
-        }
-		
+        
 		
 		
 		   System.out.println(result);
